@@ -40,3 +40,6 @@ This project aims to transform raw, unstructured **Apache Error Logs** into a cl
 
 ---
 **Done by: [Yehia]**
+| Before Cleaning (Missing Values) | After Cleaning (Structured Data) |
+| :---: | :---: |
+| ![Before](Before.png) | ![After](After.png) |
